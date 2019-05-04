@@ -1,0 +1,16 @@
+{
+  "name": "node-imap-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "imap.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.1",
+    "express": "^4.16.4",
+    "imap": "^0.8.19"
+  }
+}
